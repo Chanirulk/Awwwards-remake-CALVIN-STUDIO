@@ -1,23 +1,14 @@
-- 👋 Hi, I’m @Chanirulk
-- 👀 This Project isn't responsive - follow me on instagram and help me reach 500 followers and i'll release the responsive project code...
+# This Website was crafted by - @chaniru.lk - Instagram
+![Scrrenshot](./src/components/img/screenshot.png)
+# About the AUTHOR
 
-
-
-# Author 
-
-This project was made by - @chaniru.lk [(https://www.instagram.com/chaniru.lk/)].
-
-# About
-
-Calvin Studio is a project which is based for a creative studio - multinational stated. UI UX design credits to
-[(#Author)]
+Follow on instagram - @chaniru.lk 
+For more designs and inspiring website development /
+awwwards remakes :-)
 
 # Usage
 
 This project is not used for commercial use or cloning into another resporitory...
-
-
-
 
 # Getting Started with Create React App
 
